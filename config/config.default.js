@@ -35,7 +35,7 @@ module.exports = appInfo => {
       user: 'root',
       password: '123456789',
       database: 'juejue-cost',
-      debug: true,
+      // debug: true,
     },
     // 是否加载到 app 上，默认开启
     app: true,
